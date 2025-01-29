@@ -5,7 +5,8 @@ This repository showcases **Excel projects** from my **Data Technician Bootcamp*
 
 ## Why Excel?  
 ✅ Used in **business, finance, and data analytics**  
-✅ Powerful for **quick data analysis**  
+✅ Powerful for **quick data analysis** 
+✅ Powerful Automation – VBA macros can automate repetitive tasks and improve efficiency.
 
 ## What’s Inside?  
 - **Sales Dashboard** 📊 (Visualizing revenue & key metrics)  
