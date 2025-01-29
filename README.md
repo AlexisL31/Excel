@@ -6,7 +6,6 @@ This repository showcases **Excel projects** from my **Data Technician Bootcamp*
 ## Why Excel?  
 ✅ Used in **business, finance, and data analytics**  
 ✅ Powerful for **quick data analysis**  
-✅ Supports **VBA automation for repetitive tasks**  
 
 ## What’s Inside?  
 - **Sales Dashboard** 📊 (Visualizing revenue & key metrics)  
